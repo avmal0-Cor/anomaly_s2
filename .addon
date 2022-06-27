@@ -1,0 +1,27 @@
+{
+  "Title": "Anomaly",
+  "Type": "game",
+  "Org": "gddev",
+  "Ident": "anomaly_s2",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "code",
+  "RootNamespace": "Stalker",
+  "Metadata": {
+    "MaxPlayers": 1,
+    "MinPlayers": 1,
+    "GameNetworkType": 1,
+    "MapSelect": 3,
+    "MapList": [
+      "facepunch.construct",
+      "gddev.escape",
+      ""
+    ],
+    "RankType": 0,
+    "PerMapRanking": false,
+    "LeaderboardType": 0
+  }
+}

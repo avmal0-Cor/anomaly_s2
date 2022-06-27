@@ -1,0 +1,17 @@
+.git/
+maps/
+materials/
+sounds/
+models/
+.codegen/
+obj/
+code/accesslist.txt
+.intermediate
+tools_asset_info.bin
+code/Properties/launchSettings.json
+anomaly_s2.csproj
+Properties/launchSettings.json
+*.csproj
+.vs
+*.generated.*
+
