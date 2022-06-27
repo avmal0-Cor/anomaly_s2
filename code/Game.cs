@@ -15,4 +15,8 @@ namespace Stalker
 		void Logic () { }
 		void Main(string[] args) { }
 	}
+	abstract class RUNNING	
+	{
+
+	}
 }
